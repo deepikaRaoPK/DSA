@@ -1,2 +1,2 @@
-# IBM_Full_Stack_Coursera_Topics
+# DSA Practice 
 IBM Full Stack Course from Coursera
